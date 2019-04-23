@@ -1,0 +1,3 @@
+# habse-phenix
+使用springboot通过phenix连接hbase
+用户通过url访问hbase数据
